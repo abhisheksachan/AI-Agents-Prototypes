@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+mcp[cli]
+pydantic
+starlette
+uvicorn
+httpx
