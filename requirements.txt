@@ -5,3 +5,7 @@ pydantic
 starlette
 uvicorn
 httpx
+langchain
+langchain-google-genai
+langchain-community
+langgraph
